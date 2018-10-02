@@ -10,6 +10,7 @@ about the quote. When you push your changes back up to GitHub, you
 will see the rendered markdown file.
 
 > "Insert quote here"  
+
 [More information](https://google.com)
 
 See `complete` branch for an example.
